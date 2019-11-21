@@ -3,3 +3,5 @@ Este es un archivo de prueba para la clase profesional
 de git y github.
 
 Esperemos lo mejor 
+
+Este es nuestra primera configuracion
