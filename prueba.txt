@@ -4,7 +4,4 @@ de git y github.
 
 Esperemos lo mejor 
 
-Este es nuestra primera configuracion
-
-sumo una linea mas
-sumando una segunda linea
+cambio despues de un checkout
